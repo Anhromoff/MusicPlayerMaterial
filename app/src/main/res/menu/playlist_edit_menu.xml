@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/rename"
+        android:orderInCategory="100"
+        android:title="rename"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_image"
+        android:orderInCategory="100"
+        android:title="change image"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="delete"
+        app:showAsAction="never" />
+</menu>
